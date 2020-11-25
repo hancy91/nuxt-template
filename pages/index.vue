@@ -12,8 +12,8 @@
       <div class="flex h-full w-full">
         <div class="my-auto w-full">
           <div class="flex flex-col">
-            <div class="test-4xl font-poppins text-gray-800">
-              <span class="font-thin">Welcome to </span>
+            <div class="text-4xl font-poppins text-gray-800">
+              <span class="font-thin">Welcome to</span>
               <span class="font-semibold">Hancy's Page</span>
               <span class="text-6xl text-lead-yellow"></span>
             </div>
